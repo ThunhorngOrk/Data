@@ -69,6 +69,20 @@
     "description": "A blend of fresh fruits for a balanced taste",
     "price": 3.50,
     "image": "https://i.pinimg.com/1200x/07/64/a6/0764a653192a11d809a6f7849bf28e84.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Cranberry Juice",
+    "description": "Tart and refreshing cranberry juice",
+    "price": 2.70,
+    "image": "https://i.pinimg.com/736x/b2/dd/45/b2dd456ef53ba0971f55ef14cf8c061b.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Peach Juice",
+    "description": "Sweet and juicy peach juice",
+    "price": 3.00,
+    "image": "https://i.pinimg.com/1200x/0b/e2/fb/0be2fbcedaefc9453ef97af57603bbcf.jpg"
   }
 
 ]   

@@ -1,0 +1,74 @@
+[
+    [
+  {
+    "id": "1",
+    "name": "Orange Juice",
+    "description": "Freshly squeezed orange juice rich in vitamin C",
+    "price": 2.50,
+    "image": "https://i.pinimg.com/736x/f8/56/5b/f8565b7442a9df396adc387c8555d8b4.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Apple Juice",
+    "description": "Sweet and refreshing apple juice",
+    "price": 2.20,
+    "image": "https://i.pinimg.com/1200x/68/21/96/682196eabce95c2292e600b2f2fbcbc6.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Mango Juice",
+    "description": "Tropical mango juice with natural sweetness",
+    "price": 3.00,
+    "image": "https://i.pinimg.com/736x/53/29/6b/53296b5f51fb8b740a3bf1ff7d8d0b84.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Pineapple Juice",
+    "description": "Tangy and refreshing pineapple juice",
+    "price": 2.80,
+    "image": "https://i.pinimg.com/1200x/48/61/2b/48612ba38d3c44e0f8166ffffddc3ea2.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Watermelon Juice",
+    "description": "Cool and hydrating watermelon juice",
+    "price": 2.40,
+    "image": "https://i.pinimg.com/736x/a5/bc/4d/a5bc4d908e445da4aaa07f5a3eb4c00e.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Strawberry Juice",
+    "description": "Delicious strawberry juice with a sweet flavor",
+    "price": 3.20,
+    "image": "https://i.pinimg.com/1200x/de/8c/f8/de8cf8a8083c35303df7b979f0085d23.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Grape Juice",
+    "description": "Rich and flavorful grape juice",
+    "price": 2.90,
+    "image": "https://i.pinimg.com/736x/2a/c8/56/2ac8561d94a502a37e5bf7b9d1a36175.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Lemon Juice",
+    "description": "Zesty lemon juice perfect for refreshment",
+    "price": 1.80,
+    "image": "https://i.pinimg.com/1200x/ff/02/5b/ff025bc01db3a954679604c06cd73b00.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Carrot Juice",
+    "description": "Healthy carrot juice packed with nutrients",
+    "price": 2.60,
+    "image": "https://i.pinimg.com/1200x/b7/ae/8f/b7ae8f489105132aa1a60d3d6145237d.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Mixed Fruit Juice",
+    "description": "A blend of fresh fruits for a balanced taste",
+    "price": 3.50,
+    "image": "https://i.pinimg.com/1200x/07/64/a6/0764a653192a11d809a6f7849bf28e84.jpg"
+  }
+]
+]   

@@ -1,88 +1,142 @@
 [
-
   {
-    "id": "1",
-    "name": "Orange Juice",
-    "description": "Freshly squeezed orange juice rich in vitamin C",
-    "price": 2.50,
-    "image": "https://i.pinimg.com/736x/f8/56/5b/f8565b7442a9df396adc387c8555d8b4.jpg"
+    "id": 1,
+    "image": "https://www.progresif.com/media/catalog/product/cache/a57e14b7b22013b5665a7323ba2dcb64/d/e/dell-inspiron-15-3535.png",
+    "name": "Dell Inspiron 15",
+    "discription": "Intel i5, 8GB RAM, 512GB SSD",
+    "price": 650
   },
   {
-    "id": "2",
-    "name": "Apple Juice",
-    "description": "Sweet and refreshing apple juice",
-    "price": 2.20,
-    "image": "https://i.pinimg.com/1200x/68/21/96/682196eabce95c2292e600b2f2fbcbc6.jpg"
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dfPtrXC0vZWKOo8qNP4zdHfysxwAi2_IUA&s",
+    "name": "HP Pavilion 14",
+    "discription": "Intel i5, 8GB RAM, 256GB SSD",
+    "price": 600
   },
   {
-    "id": "3",
-    "name": "Mango Juice",
-    "description": "Tropical mango juice with natural sweetness",
-    "price": 3.00,
-    "image": "https://i.pinimg.com/736x/53/29/6b/53296b5f51fb8b740a3bf1ff7d8d0b84.jpg"
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKECt-PuTfOVM--Ol0PyEpBRYKald18lGwaA&s",
+    "name": "Lenovo IdeaPad 3",
+    "discription": "Ryzen 5, 8GB RAM, 512GB SSD",
+    "price": 550
   },
   {
-    "id": "4",
-    "name": "Pineapple Juice",
-    "description": "Tangy and refreshing pineapple juice",
-    "price": 2.80,
-    "image": "https://i.pinimg.com/1200x/48/61/2b/48612ba38d3c44e0f8166ffffddc3ea2.jpg"
+    "id": 4,
+    "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/1/9/193989_2024.jpg?auto=webp&format=pjpg&width=640",
+    "name": "Acer Aspire 5",
+    "discription": "Intel i5, 8GB RAM, 512GB SSD",
+    "price": 580
   },
   {
-    "id": "5",
-    "name": "Watermelon Juice",
-    "description": "Cool and hydrating watermelon juice",
-    "price": 2.40,
-    "image": "https://i.pinimg.com/736x/a5/bc/4d/a5bc4d908e445da4aaa07f5a3eb4c00e.jpg"
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFAEp6iYo1Ue2EIla62JUoxnk4TPN7RVX_A&s",
+    "name": "Asus VivoBook 15",
+    "discription": "Intel i7, 16GB RAM, 512GB SSD",
+    "price": 750
   },
   {
-    "id": "6",
-    "name": "Strawberry Juice",
-    "description": "Delicious strawberry juice with a sweet flavor",
-    "price": 3.20,
-    "image": "https://i.pinimg.com/1200x/de/8c/f8/de8cf8a8083c35303df7b979f0085d23.jpg"
+    "id": 6,
+    "image": "https://acom.pl/media/catalog/product/cache/0f7431f5367b37c067ffd8dcd36cc722/a/p/apple-macbook-air-13-3-m1-8gb-256gb-ssd-gwiezdna-szarosc-space-gray-mgn63ze-a-1.png",
+    "name": "MacBook Air M1",
+    "discription": "Apple M1, 8GB RAM, 256GB SSD",
+    "price": 900
   },
   {
-    "id": "7",
-    "name": "Grape Juice",
-    "description": "Rich and flavorful grape juice",
-    "price": 2.90,
-    "image": "https://i.pinimg.com/736x/2a/c8/56/2ac8561d94a502a37e5bf7b9d1a36175.jpg"
+    "id": 7,
+    "image": "https://www.hoxtonmacs.co.uk/cdn/shop/products/apple-macbook-pro-14-inch-macbook-pro-14-inch-m1-max-10-core-space-grey-2021-good-40450384625980.jpg?v=1680270111&width=1080",
+    "name": "MacBook Pro 14",
+    "discription": "Apple M2, 16GB RAM, 512GB SSD",
+    "price": 1800
   },
   {
-    "id": "8",
-    "name": "Lemon Juice",
-    "description": "Zesty lemon juice perfect for refreshment",
-    "price": 1.80,
-    "image": "https://i.pinimg.com/1200x/ff/02/5b/ff025bc01db3a954679604c06cd73b00.jpg"
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGLjaAf0pqDXFUp4jNigBP8GMeu5V32CeAw&s",
+    "name": "MSI GF63 Thin",
+    "discription": "Intel i5, 8GB RAM, GTX 1650",
+    "price": 700
   },
   {
-    "id": "9",
-    "name": "Carrot Juice",
-    "description": "Healthy carrot juice packed with nutrients",
-    "price": 2.60,
-    "image": "https://i.pinimg.com/1200x/b7/ae/8f/b7ae8f489105132aa1a60d3d6145237d.jpg"
+    "id": 9,
+    "image": "https://static.alaneesqatar.qa/2022/02/Asus-ROG-Strix-G15-G513QE-HN042T-1.png",
+    "name": "ASUS ROG Strix G15",
+    "discription": "Ryzen 7, 16GB RAM, RTX 3060",
+    "price": 1200
   },
   {
-    "id": "10",
-    "name": "Mixed Fruit Juice",
-    "description": "A blend of fresh fruits for a balanced taste",
-    "price": 3.50,
-    "image": "https://i.pinimg.com/1200x/07/64/a6/0764a653192a11d809a6f7849bf28e84.jpg"
+    "id": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXr6lHzn-RRgsr2f_kmAODIqxv4-CwTl9ZvQ&s",
+    "name": "Dell XPS 13",
+    "discription": "Intel i7, 16GB RAM, 512GB SSD",
+    "price": 1300
   },
   {
-    "id": "11",
-    "name": "Cranberry Juice",
-    "description": "Tart and refreshing cranberry juice",
-    "price": 2.70,
-    "image": "https://i.pinimg.com/736x/b2/dd/45/b2dd456ef53ba0971f55ef14cf8c061b.jpg"
+    "id": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QhYz-hdaVRD4NThTB__Xha5NQ4oV7GM-2Q&s",
+    "name": "HP Envy 13",
+    "discription": "Intel i5, 8GB RAM, 256GB SSD",
+    "price": 800
   },
   {
-    "id": "12",
-    "name": "Peach Juice",
-    "description": "Sweet and juicy peach juice",
-    "price": 3.00,
-    "image": "https://i.pinimg.com/1200x/0b/e2/fb/0be2fbcedaefc9453ef97af57603bbcf.jpg"
+    "id": 12,
+    "image": "https://i5.walmartimages.com/seo/Lenovo-ThinkPad-X1-Carbon-Gen-9-Intel-Laptop-14-IPS-vPro-Iris-Xe-Graphics-16GB-512GB_382573a1-0319-47a0-bde0-261a596db484.05890d7f06082ec8c6b785088d63b52b.jpeg",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "discription": "Intel i7, 16GB RAM, 1TB SSD",
+    "price": 1500
+  },
+  {
+    "id": 13,
+    "image": "https://cdn.mos.cms.futurecdn.net/3aHwBxY98e6ayvSiB7yWrJ.jpg",
+    "name": "Acer Nitro 5",
+    "discription": "Ryzen 5, 16GB RAM, RTX 3050",
+    "price": 950
+  },
+  {
+    "id": 14,
+    "image": "https://storage-asset.msi.com/global/picture/product/product_168974719493480c4e090deebe413ef445cef0ec7d.webp",
+    "name": "MSI Modern 14",
+    "discription": "Intel i5, 8GB RAM, 512GB SSD",
+    "price": 650
+  },
+  {
+    "id": 15,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61S1vCW9yCL._SS400_.jpg",
+    "name": "Huawei MateBook D15",
+    "discription": "Ryzen 5, 8GB RAM, 256GB SSD",
+    "price": 600
+  },
+  {
+    "id": 16,
+    "image": "https://images.samsung.com/is/image/samsung/hk_en-feature-thin-as-a-smartphone--powerful-as-a-pc-458036002?$FB_TYPE_A_MO_JPG$",
+    "name": "Samsung Galaxy Book",
+    "discription": "Intel i5, 8GB RAM, 512GB SSD",
+    "price": 700
+  },
+  {
+    "id": 17,
+    "image": "https://i5.walmartimages.com/asr/9e9821b2-11aa-4cf8-9560-234c3a82fac6.39caa4147b836043c01d45038f34eed7.jpeg",
+    "name": "Razer Blade 15",
+    "discription": "Intel i7, 16GB RAM, RTX 3070",
+    "price": 2000
+  },
+  {
+    "id": 18,
+    "image": "https://static.gigabyte.com/StaticFile/Image/Global/b639dddcbff38f2b926526455e72a90b/Product/31491",
+    "name": "Gigabyte G5",
+    "discription": "Intel i5, 16GB RAM, RTX 3050",
+    "price": 1000
+  },
+  {
+    "id": 19,
+    "image": "https://rootitsupport.com/userfiles/latitude-5420-2.jpg",
+    "name": "Dell Latitude 5420",
+    "discription": "Intel i5, 8GB RAM, 256GB SSD",
+    "price": 900
+  },
+  {
+    "id": 20,
+    "image": "https://i5.walmartimages.com/seo/Lenovo-Legion-5-Pro-16-Gaming-Laptop-AMD-Ryzen-7-16GB-RAM-NVIDIA-GeForce-RTX-3070-512GB-SSD-Windows-10-Home-Gray-82JQ008NUS_d05d5b65-1656-43c1-ac3d-5d2cdb40903e.e42fe023b5e4445e4f380ae0f5b096bb.jpeg",
+    "name": "Lenovo Legion 5",
+    "discription": "Ryzen 7, 16GB RAM, RTX 3060",
+    "price": 1300
   }
-
-]   
+]

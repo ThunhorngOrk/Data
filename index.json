@@ -138,5 +138,89 @@
     "name": "Lenovo Legion 5",
     "discription": "Ryzen 7, 16GB RAM, RTX 3060",
     "price": 1300
+  },
+  {
+    "id": 21,
+    "image": "https://i.pinimg.com/1200x/50/a8/96/50a8963d1380361372dae75b6a33f034.jpg",
+    "name": "HP Victus 15",
+    "discription": "Intel i5, 16GB RAM, GTX 1650",
+    "price": 850
+  },
+  {
+    "id": 22,
+    "image": "https://i.pinimg.com/1200x/96/13/41/9613415615cba302b8d228d3444739bc.jpg",
+    "name": "Asus TUF F15",
+    "discription": "Intel i7, 16GB RAM, RTX 3050",
+    "price": 1100
+  },
+  {
+    "id": 23,
+    "image": "https://i.pinimg.com/736x/a2/a9/2c/a2a92cdf12bcaf8198b988dbcc0c7ab3.jpg",
+    "name": "Dell G15 Gaming",
+    "discription": "Ryzen 7, 16GB RAM, RTX 3050",
+    "price": 1050
+  },
+  {
+    "id": 24,
+    "image": "https://i.pinimg.com/736x/8c/46/18/8c461820dad459a5614df6d693b77369.jpg",
+    "name": "Acer Swift 3",
+    "discription": "Intel i5, 8GB RAM, 512GB SSD",
+    "price": 700
+  },
+  {
+    "id": 25,
+    "image": "https://i.pinimg.com/1200x/f6/cc/97/f6cc97624ef6b5ed1c4025c4900c1e01.jpg",
+    "name": "Lenovo Yoga Slim 7",
+    "discription": "Ryzen 7, 16GB RAM, 512GB SSD",
+    "price": 950
+  },
+  {
+    "id": 26,
+    "image": "https://i.pinimg.com/1200x/60/b0/59/60b059277f726039b3173f10e954d348.jpg",
+    "name": "Microsoft Surface Laptop 4",
+    "discription": "Intel i7, 16GB RAM, 512GB SSD",
+    "price": 1400
+  },
+  {
+    "id": 27,
+    "image": "https://i.pinimg.com/736x/20/0b/91/200b91832f05d2bb9f91865ea0413d42.jpg",
+    "name": "Samsung Galaxy Book 2",
+    "discription": "Intel i5, 8GB RAM, 256GB SSD",
+    "price": 750
+  },
+  {
+    "id": 28,
+    "image": "https://i.pinimg.com/1200x/99/c5/1b/99c51bd42af3a436fa95fd2503e43b35.jpg",
+    "name": "Huawei MateBook X Pro",
+    "discription": "Intel i7, 16GB RAM, 1TB SSD",
+    "price": 1600
+  },
+  {
+    "id": 29,
+    "image": "https://i.pinimg.com/736x/b2/79/17/b27917c7b7db47ed9aee143631f43206.jpg",
+    "name": "Razer Book 13",
+    "discription": "Intel i7, 16GB RAM, 512GB SSD",
+    "price": 1500
+  },
+  {
+    "id": 30,
+    "image": "https://i.pinimg.com/736x/a2/9a/21/a29a21fb476a21375ea1a977406fff33.jpg",
+    "name": "LG Gram 16",
+    "discription": "Intel i7, 16GB RAM, 1TB SSD",
+    "price": 1700
+  },
+   {
+    "id": 31,
+    "image": "https://i.pinimg.com/1200x/73/b3/55/73b355cdde0ad33fa70f88e994038a61.jpg",
+    "name": "Asus ZenBook 14",
+    "discription": "Intel i7, 16GB RAM, 512GB SSD",
+    "price": 1100
+  },
+  {
+    "id": 32,
+    "image": "https://i.pinimg.com/1200x/71/d0/88/71d088546407d180da004a359150edd3.jpg",
+    "name": "Dell Alienware m15",
+    "discription": "Intel i7, 16GB RAM, RTX 3060",
+    "price": 1400
   }
 ]
